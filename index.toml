@@ -1,2 +1,196 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4e852c56007b6e30c60e33c84a76210bf67a4122dbc3541c9a0ab633d02b3864"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "f79243f3241bb965b2312fba4278feb6c3817affb5fc4f0574482b8253acdb39"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ff166c16c21eca97e568fc0c29855736ed8a52a23d1079acfc55683dd74f44bf"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-gear.pw.toml"
+hash = "0e1b5abd430cb7ddc2cdaea509c3aaafeb7899990a411a44bcec2106756bc47c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-libraries.pw.toml"
+hash = "fe798c99b5ed0c15fffaf27f1e8306e101ac35a3de485af58d7e0046ac547a37"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-mobs.pw.toml"
+hash = "eefbf51955f904a599d8ffa68048be0e49688d9960df5b50b0aa36a89c432599"
+metafile = true
+
+[[files]]
+file = "mods/endremastered.pw.toml"
+hash = "201c75733a848fecde779385a89591f1d42a4834c353e5513c73eff08c3a91f8"
+metafile = true
+
+[[files]]
+file = "mods/expandability.pw.toml"
+hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "2fb1be79501f182d47fae6147b2401749f69250418cff7d6220f54d5e084b1b3"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "075a70282743ae2ebd01224012873f178e4088f257969b74e35bb0db579c6611"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "14c383b29a7703d92a764e77f3fc2eb4cd9f25673a919c824f30066444893c24"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "790862fccbad2e3eff45b2905f44bb786c0c80e0271d0d46c2cd08819b92e1b2"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "d71c183225e641efe08d99c19b36d64cdf0b9c5a9ebb5368061032b3d46d547f"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "5a61f6b9d1c906a03305bcfd9cfac7efe99e99a5bd8fe49984f9a5e8671ebe9f"
+metafile = true
+
+[[files]]
+file = "mods/new-world-height-and-depth.pw.toml"
+hash = "a51bc6c11d6e14570342a990d6bbcf6b61b6f0771a1de297c5dc07e9d886a6e2"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "4a5234958a5656afaf5c8cd1c907cbc89a58c6fa0f806e6f8e8b3f98b39dcfe8"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
+metafile = true
+
+[[files]]
+file = "mods/sao2102.pw.toml"
+hash = "ffe2a263bbe40b4efdc274acffde773dbe91e2074adf813d3dfc31f34154b97f"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "487c4b7d24a44db0be521e6cf57b0dacafbfe5dc14a10c55186eb6f7843181c1"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "23885e20be74e52bdb6466ae10de82b0ed1acdace5e2a200435c6ffba19cb534"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "79c4b714ea20331d85b6a80367ce7401e9cf5431c3a13559716a6085a5225f61"
+metafile = true

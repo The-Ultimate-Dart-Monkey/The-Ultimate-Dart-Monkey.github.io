@@ -1,0 +1,13 @@
+name = "Dungeons Gear"
+filename = "dungeons_gear-1.18.2-4.0.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1c180005f03111d295a35c7e74a2a9cec1577a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4292137
+project-id = 401247

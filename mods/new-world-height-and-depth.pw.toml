@@ -1,0 +1,13 @@
+name = "Shattered World Limits"
+filename = "Shattered World Limits - forge (-512 to 1023) .jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "019092e4dd680b628b462385ab4220f446c24ceb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3930414
+project-id = 556760
