@@ -1,9 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = "README.md"
-hash = "239ee29f4cd0b755bca539ebb9f6963b945d784ee7f3e968ebcd4bba37bb10d8"
-
-[[files]]
-file = "index.html"
-hash = "d2a84f4b8b650937ec8f73cd8be2c74add5a911ba64df27458ed8229da804a26"
+files = []
