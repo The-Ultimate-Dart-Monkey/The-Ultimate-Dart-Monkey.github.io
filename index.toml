@@ -61,6 +61,11 @@ hash = "eefbf51955f904a599d8ffa68048be0e49688d9960df5b50b0aa36a89c432599"
 metafile = true
 
 [[files]]
+file = "mods/enchant-with-mob.pw.toml"
+hash = "60188aac52e256a18b1f466686a90033d4b22ad2dc9a63d1bc46dadf263a9902"
+metafile = true
+
+[[files]]
 file = "mods/endremastered.pw.toml"
 hash = "201c75733a848fecde779385a89591f1d42a4834c353e5513c73eff08c3a91f8"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/expandability.pw.toml"
 hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
+metafile = true
+
+[[files]]
+file = "mods/factioncraft.pw.toml"
+hash = "37dacf21fc591a1ab05a3ffb41e27b5a40496cc5925e9f3d408ea106b65c91c7"
 metafile = true
 
 [[files]]
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
+metafile = true
+
+[[files]]
+file = "mods/illagers-wear-armor.pw.toml"
+hash = "4f55db635c439342fb5cf8cf0b8edeea6db8a47463c17e5bae3771224c39ebb1"
 metafile = true
 
 [[files]]
