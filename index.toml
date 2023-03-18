@@ -46,6 +46,11 @@ hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
 metafile = true
 
 [[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "d568398710733f1e0ef71c227ade0296630bd960e1a29a608fadcad2d09f39c8"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-gear.pw.toml"
 hash = "0e1b5abd430cb7ddc2cdaea509c3aaafeb7899990a411a44bcec2106756bc47c"
 metafile = true
@@ -126,6 +131,16 @@ hash = "4f55db635c439342fb5cf8cf0b8edeea6db8a47463c17e5bae3771224c39ebb1"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "9776e903bc683d6674cdff7c40ad694c0de465efbeab98395f43058d656be27e"
+metafile = true
+
+[[files]]
+file = "mods/infernal-expansion.pw.toml"
+hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "14c383b29a7703d92a764e77f3fc2eb4cd9f25673a919c824f30066444893c24"
 metafile = true
@@ -146,13 +161,33 @@ hash = "d71c183225e641efe08d99c19b36d64cdf0b9c5a9ebb5368061032b3d46d547f"
 metafile = true
 
 [[files]]
+file = "mods/l_ender-s-cataclysm.pw.toml"
+hash = "09908cb5d098496fdc671ac336497954356fcca74c0e0125ced77f7b31ea9151"
+metafile = true
+
+[[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "9af9b34f2b9408599149b0e5e24594d001a4f0108248c781767314f761e8e5f1"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-progressive-difficulty.pw.toml"
+hash = "1fdc5661d01c241d5911acc07e67c233189060ebf0bf0654fcfebb2fc9b72284"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "5a61f6b9d1c906a03305bcfd9cfac7efe99e99a5bd8fe49984f9a5e8671ebe9f"
 metafile = true
 
 [[files]]
-file = "mods/new-world-height-and-depth.pw.toml"
-hash = "a51bc6c11d6e14570342a990d6bbcf6b61b6f0771a1de297c5dc07e9d886a6e2"
+file = "mods/nekos-enchanted-books.pw.toml"
+hash = "7fd897f07bcf09745277703836563dd4ec9246902cd1f121023ebf43e0d061d3"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e9691acca458b01cad43aedb8e0933ce6872fed44dfab514786931be7fe0d814"
 metafile = true
 
 [[files]]
@@ -178,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/stalwart-dungeons.pw.toml"
+hash = "3128e1d548e20e625e049f005bda8f86f3931f394a4ce308631c376e56185a92"
 metafile = true
 
 [[files]]
