@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "f79243f3241bb965b2312fba4278feb6c3817affb5fc4f0574482b8253acdb39"
+hash = "aab7dbc375d3813e891fee920397f3724c4dbf1fa9d3b948cb41ee4677610aa9"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ff166c16c21eca97e568fc0c29855736ed8a52a23d1079acfc55683dd74f44bf"
+hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "14c383b29a7703d92a764e77f3fc2eb4cd9f25673a919c824f30066444893c24"
+hash = "701c5388f582e7472e796265fb430c36d751313be7468fb67e4abb86d0875846"
 metafile = true
 
 [[files]]
