@@ -146,6 +146,11 @@ hash = "eefbf51955f904a599d8ffa68048be0e49688d9960df5b50b0aa36a89c432599"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
 file = "mods/enchant-with-mob.pw.toml"
 hash = "60188aac52e256a18b1f466686a90033d4b22ad2dc9a63d1bc46dadf263a9902"
 metafile = true
@@ -256,6 +261,11 @@ hash = "09908cb5d098496fdc671ac336497954356fcca74c0e0125ced77f7b31ea9151"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "9af9b34f2b9408599149b0e5e24594d001a4f0108248c781767314f761e8e5f1"
 metafile = true
@@ -311,6 +321,11 @@ hash = "de69d77d188074c508672e5f6f2d64010601a35aad7c73aebffb5dac4252b861"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "dc1ace4b702d5953b4ff5aac59572a9fc03d077aee3c0d407db17a8f768f5268"
+metafile = true
+
+[[files]]
 file = "mods/sao2102.pw.toml"
 hash = "ffe2a263bbe40b4efdc274acffde773dbe91e2074adf813d3dfc31f34154b97f"
 metafile = true
@@ -348,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "52ee1ced2362cd096a31167f55c77034a4f207201e180a73d107de1ce7933864"
 metafile = true
 
 [[files]]
