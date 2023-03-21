@@ -236,6 +236,11 @@ hash = "d71c183225e641efe08d99c19b36d64cdf0b9c5a9ebb5368061032b3d46d547f"
 metafile = true
 
 [[files]]
+file = "mods/json-entity-models-jems.pw.toml"
+hash = "3d61ffb363577ec000545164a9b8163033f1e5b1747e1efd543dd978c34e6f08"
+metafile = true
+
+[[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
 hash = "09908cb5d098496fdc671ac336497954356fcca74c0e0125ced77f7b31ea9151"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
+metafile = true
+
+[[files]]
+file = "mods/rotten-creatures.pw.toml"
+hash = "de69d77d188074c508672e5f6f2d64010601a35aad7c73aebffb5dac4252b861"
 metafile = true
 
 [[files]]
