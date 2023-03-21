@@ -91,6 +91,11 @@ hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "52b6e12ebdd09c5708c22320d8c3def4575f1c37d608ebf803c4bc7e84f63043"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/enchant-with-mob.pw.toml"
 hash = "60188aac52e256a18b1f466686a90033d4b22ad2dc9a63d1bc46dadf263a9902"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "9698d77c462cbf16a5c3db9bc3cea684b36f3a26ef9320683f38c9525c678948"
 metafile = true
 
 [[files]]
