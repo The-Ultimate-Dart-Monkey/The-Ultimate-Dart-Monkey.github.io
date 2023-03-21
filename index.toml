@@ -1,6 +1,66 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/idasbop-1.6.0-1.18.2.zip"
+hash = "c37d61805c622b0d88854f2c8b4ade8a17ed41675e82f3f1c803edc950e49d8c"
+
+[[files]]
+file = "global_packs/required_data/intstrong_alexsmobs-1.0.0-1.18.2.zip"
+hash = "430865f69d2160d73c53cffe4e319333f3a3a85131d4c63e62d732ae5a84988e"
+
+[[files]]
+file = "global_packs/required_data/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2.zip"
+hash = "0435326c6ef8f077e17e8c4bbe7c69b3e6f120d9b3e0b54c45f2db08919c80e3"
+
+[[files]]
+file = "global_packs/required_data/intstrong_endrem-1.0.0-1.18.2-1.19.2.zip"
+hash = "8e41b8cc5e0e255f8639c0a1ee76aa37486fa0c7d406976983c53a6c56438bbb"
+
+[[files]]
+file = "global_packs/required_data/intstrong_graveyard-1.0.0-1.18.2-1.19.2.zip"
+hash = "c89f0ed252922d05429dfd3f48787a863654be7168870944578f0681108bc716"
+
+[[files]]
+file = "global_packs/required_resources/EmbellishedStone-1.19.3-1.0.0.zip"
+hash = "20a7338be0e61358ee5bb235c4e16a56f491e3e82264b355dc223ef0dbbdcf5b"
+
+[[files]]
+file = "global_packs/required_resources/Enhanced+Boss+Bars+1.1.zip"
+hash = "9efac70604c3523f8f725ebbeb7a6908f83fbed11dd8f1ff01be0037382252af"
+
+[[files]]
+file = "global_packs/required_resources/Fancy,+GUI+Overhaul+v0.1.2.7.zip"
+hash = "afdf52d928cde3db836d2ec64ae36cd6051c86759f4e42ecd9459da306c21e1c"
+
+[[files]]
+file = "global_packs/required_resources/Lush+Leaves.zip"
+hash = "966856b9e7beebb3b220539e8d1c87fbb5a67dbcaa65436e0e375d431704d917"
+
+[[files]]
+file = "global_packs/required_resources/SEUS PTGI E12.zip"
+hash = "929754228be39a7a3407be6f3c7f8f8f6fe84c14319840f9c3bba5695796ee4f"
+
+[[files]]
+file = "global_packs/required_resources/Unity-1.18.X-Base-2.4.1.zip"
+hash = "20f7e474ecbc4bdd3802fa2341144e2b34088409f79405f08019ff3df557c68c"
+
+[[files]]
+file = "global_packs/required_resources/Unity-1.18.X-Dark-0.9.0.zip"
+hash = "11d2780018d18ba2ee2dcd88bcabf21472907d1bb20c3042ab1f0bde327b649d"
+
+[[files]]
+file = "global_packs/required_resources/Unity-1.18.X-Extras-1.1.0.zip"
+hash = "b951376e39663c378ff63c33faf2c0a33a3d0ef697d0e35950c4b0e8f4e56bce"
+
+[[files]]
+file = "global_packs/required_resources/Unity-1.18.X-Modded-1.3.0.zip"
+hash = "4928fd7a431f51749e535ebac4feb9d97782a81198e0de18a28176d1e2de339b"
+
+[[files]]
+file = "global_packs/required_resources/Unity-1.18.X-PBR-0.5.0.zip"
+hash = "fc11cab6434785c3b391b0773b947f187c89c4654fd4509f71f1e7070cc7fa49"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
