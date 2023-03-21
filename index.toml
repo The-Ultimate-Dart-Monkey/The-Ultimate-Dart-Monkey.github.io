@@ -96,6 +96,16 @@ hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a57e921f872596ca19e411d726b7f6db272267f2dd712322a3168ce0f404fd44"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "5fd5a54011e4c40de84f12aff97bb5f6b4a1bf0a2196eeb66c62e91868e0b4e3"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
@@ -241,6 +251,11 @@ hash = "1fdc5661d01c241d5911acc07e67c233189060ebf0bf0654fcfebb2fc9b72284"
 metafile = true
 
 [[files]]
+file = "mods/mining-master.pw.toml"
+hash = "463c0136e956b0e1d6be23220b4aa1a884e6d4d9176ef9be5ac5e872aa6043eb"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "5a61f6b9d1c906a03305bcfd9cfac7efe99e99a5bd8fe49984f9a5e8671ebe9f"
 metafile = true
@@ -266,6 +281,11 @@ hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "639b2cf8a4557ec101841e03a8690e3e9d9fb1fce362c2be5e66382fbb259293"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "4d6310ca9a4cf607116540cfb0282536728d90852388f0abca94c820f92a4482"
 metafile = true
@@ -278,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "7f4696281eed04142674bb52a585770e94f3ef31d7cf7ebc44c0228b88a8b24f"
 metafile = true
 
 [[files]]
