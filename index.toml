@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "639b2cf8a4557ec101841e03a8690e3e9d9fb1fce362c2be5e66382fbb259293"
+hash = "698f6e5648eff03f6749a602577fbe1e5d0bd7410d15481b9615ad78307131cc"
 metafile = true
 
 [[files]]
