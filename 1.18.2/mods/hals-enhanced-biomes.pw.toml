@@ -1,0 +1,13 @@
+name = "Hals Enhanced Biomes"
+filename = "H.e.b v 1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47cc81d762cef63da5eb675378d8e957bf255871"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3707243
+project-id = 536042

@@ -1,0 +1,16 @@
+name = "Bingchill"
+author = "Monke"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ae060fccbe0a0c357fcc065b0a296e4cd5f9c0c6d51d1bd93c3dd39cea986327"
+
+[versions]
+forge = "40.2.1"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1", "1.18.2"]

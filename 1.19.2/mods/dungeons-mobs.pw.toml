@@ -1,0 +1,13 @@
+name = "Dungeons Mobs"
+filename = "dungeons_mobs-1.19.2-4.0.6-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a953a97e8ca25a5ec07392e21184bfd1cd6b2d75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4394782
+project-id = 428883
