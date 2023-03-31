@@ -261,6 +261,11 @@ hash = "201c75733a848fecde779385a89591f1d42a4834c353e5513c73eff08c3a91f8"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
+metafile = true
+
+[[files]]
 file = "mods/expandability.pw.toml"
 hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
@@ -618,6 +623,36 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "42aff0502a35273e17459fc9139aa31f621241999901c7f1b750eb2920360d2a"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-core.pw.toml"
+hash = "3552e86ca9f8aa7db16388ad625e9770cb40cbc2a156785ef5ac3c4967324d5c"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-creativerite.pw.toml"
+hash = "e923ec30c922886d999e16fde80ef1bf64a5556411dd310645a5514ca378432f"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-items.pw.toml"
+hash = "cb49e2fe890240df95fcccec9f08830fd0f140d7d595cce30a62550973774266"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite-ultimerite.pw.toml"
+hash = "a197c57e83225144f77477cee7517019f4752c44c84285d9862d1cc3986ac796"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-netherite.pw.toml"
+hash = "b91636abbb7e23d3d133d08a4f2defbc50e074c96750faae6a968802671105cf"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-tools.pw.toml"
+hash = "477ef6ae462d4a823ee955238ae261b4c728ae17ab1f0d32d37ccd7e9d609dae"
 metafile = true
 
 [[files]]
