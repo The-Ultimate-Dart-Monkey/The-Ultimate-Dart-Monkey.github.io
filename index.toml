@@ -306,11 +306,6 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
-file = "mods/gobber-delight-a-farmers-delight-add-on.pw.toml"
-hash = "cd4b6784e805410834f2c88f12fe00d5d245670c120fb748bfbedcb46acef868"
-metafile = true
-
-[[files]]
 file = "mods/gobber.pw.toml"
 hash = "54e60d37564b874fb0b0277751317da09641cff16bcc37f84dff00b731b21c4a"
 metafile = true
