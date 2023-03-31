@@ -66,6 +66,11 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "39a53b27a76906131170e96a602e7f4c7ae2b9667d6c53fb9b1fa26a5aeeb389"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "4e852c56007b6e30c60e33c84a76210bf67a4122dbc3541c9a0ab633d02b3864"
 metafile = true
@@ -91,6 +96,11 @@ hash = "1e799370f42d5f6388e2fa15c4549e0fff56f306c256f0694e169aeffba40853"
 metafile = true
 
 [[files]]
+file = "mods/beyond-earth.pw.toml"
+hash = "502c74137135d13955e7852eec16d516f6960c5d3b1b23f982c9e249c9179f23"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
@@ -98,6 +108,21 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "52b6e12ebdd09c5708c22320d8c3def4575f1c37d608ebf803c4bc7e84f63043"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "f2003c537074264ef7f1c67dc72e72a79dd5efb39e7d4ee3eec60b0ebad8e938"
+metafile = true
+
+[[files]]
+file = "mods/ceramics.pw.toml"
+hash = "23fa6f1c38d4f1900d269450df9686f17fde73ec7ae69541992329d689cab506"
 metafile = true
 
 [[files]]
@@ -113,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "5fd5a54011e4c40de84f12aff97bb5f6b4a1bf0a2196eeb66c62e91868e0b4e3"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
 metafile = true
 
 [[files]]
@@ -231,6 +261,11 @@ hash = "4f55db635c439342fb5cf8cf0b8edeea6db8a47463c17e5bae3771224c39ebb1"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "9776e903bc683d6674cdff7c40ad694c0de465efbeab98395f43058d656be27e"
 metafile = true
@@ -248,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "790862fccbad2e3eff45b2905f44bb786c0c80e0271d0d46c2cd08819b92e1b2"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "bfcaf25cd94492e855dfb7353dacb44ed1668b3f6d3d1705360e785ede84667a"
 metafile = true
 
 [[files]]
@@ -276,6 +316,16 @@ hash = "84b4827d806ab6282cbff32eef4011053dc78685f3df718805a50213e55b3a7f"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "1abd6b14897b96bd995cca1da58bffc0637207f4854fe7afd1fe9aad228988a7"
+metafile = true
+
+[[files]]
+file = "mods/lodestone.pw.toml"
+hash = "c72a63dcce6b26dfb276eb3f03d1efe904cc974023aa4093d31d1f01b3415459"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
@@ -291,6 +341,21 @@ hash = "1fdc5661d01c241d5911acc07e67c233189060ebf0bf0654fcfebb2fc9b72284"
 metafile = true
 
 [[files]]
+file = "mods/malum.pw.toml"
+hash = "ae13cbf0c8409b902a74252ab43b1ca6c79be574ddb14a5f367f461dc749454f"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
 file = "mods/mining-master.pw.toml"
 hash = "463c0136e956b0e1d6be23220b4aa1a884e6d4d9176ef9be5ac5e872aa6043eb"
 metafile = true
@@ -298,6 +363,16 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "5a61f6b9d1c906a03305bcfd9cfac7efe99e99a5bd8fe49984f9a5e8671ebe9f"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
+file = "mods/mythicbotany.pw.toml"
+hash = "548b6245f3345e5a1a1754022c03a6f359ac76803e6fd57ef7ec0e7ddf9867cd"
 metafile = true
 
 [[files]]
@@ -366,6 +441,11 @@ hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
 metafile = true
 
 [[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "136455a7da4513360e9b999bd81cddcaf162025969c19d470936ce139387ba3a"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "487c4b7d24a44db0be521e6cf57b0dacafbfe5dc14a10c55186eb6f7843181c1"
 metafile = true
@@ -381,6 +461,11 @@ hash = "7aa6d841a579fb305592cea7ef622a0a675b50cdb32e0a01d17a120f3e489b67"
 metafile = true
 
 [[files]]
+file = "mods/tetra.pw.toml"
+hash = "3b10e784cad870859f46e991531324be20b73e7ee83c60b8b18c60a1ecfe0412"
+metafile = true
+
+[[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "889484a36f00c957d8c67fef297f58cb0193b5cdbff85fc6ed74b81a764dbebf"
 metafile = true
@@ -388,6 +473,26 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "23885e20be74e52bdb6466ae10de82b0ed1acdace5e2a200435c6ffba19cb534"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "905575f6d3c20a47b8bdae4e9ee48532c3c00acfd899c9b87e5555475ae1d9a9"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "59e4f827ee3454a896f49ec72a98c4dad7de3a329bab60f6f73be54aca66f5e1"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-levelling-addon.pw.toml"
+hash = "58381a5a3253b8079c9e1ebe0822fe9134b22d8f35e3768291744b7226be740b"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-reforged.pw.toml"
+hash = "7faf72a342209943543fbcb0c5c2c8109fda058eb68c610d278131d4a6a9ab4e"
 metafile = true
 
 [[files]]
