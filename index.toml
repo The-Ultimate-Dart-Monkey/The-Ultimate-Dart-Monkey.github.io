@@ -96,11 +96,6 @@ hash = "1e799370f42d5f6388e2fa15c4549e0fff56f306c256f0694e169aeffba40853"
 metafile = true
 
 [[files]]
-file = "mods/beyond-earth.pw.toml"
-hash = "502c74137135d13955e7852eec16d516f6960c5d3b1b23f982c9e249c9179f23"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
