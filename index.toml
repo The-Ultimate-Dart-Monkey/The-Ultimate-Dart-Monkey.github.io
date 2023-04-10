@@ -206,6 +206,11 @@ hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
 metafile = true
 
 [[files]]
+file = "mods/difficult-raids.pw.toml"
+hash = "acd32c0cc21821eef804ccac0ceda39ed26c40ebfc311a00bce9f4ef3801420a"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "d568398710733f1e0ef71c227ade0296630bd960e1a29a608fadcad2d09f39c8"
 metafile = true
