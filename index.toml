@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a50a33ef816833d7540461b89161751bccf1fdbdc9ab0bbf9d07942621a26267"
+hash = "4bd5faaed950ea0b84dc2c3665541367b411a6544c4f8d94a98ecb79b21cf4b4"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-village-forge.pw.toml"
-hash = "1e799370f42d5f6388e2fa15c4549e0fff56f306c256f0694e169aeffba40853"
+hash = "6c22438da0c5e4a4eb74748dba94df4bd8b5222ee45ca5829b01215ab562eddc"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "52b6e12ebdd09c5708c22320d8c3def4575f1c37d608ebf803c4bc7e84f63043"
+hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
+hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchant-with-mob.pw.toml"
-hash = "60188aac52e256a18b1f466686a90033d4b22ad2dc9a63d1bc46dadf263a9902"
+hash = "4e24593d167d9b573bc34a709de062bb40c6f90ad1cc6d42db1de5ddc52b667f"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d71c183225e641efe08d99c19b36d64cdf0b9c5a9ebb5368061032b3d46d547f"
+hash = "bab0b74d714a13993eaf4d45db033b3944e3f532aefca7d3888828efe123d639"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/lodestone.pw.toml"
-hash = "c72a63dcce6b26dfb276eb3f03d1efe904cc974023aa4093d31d1f01b3415459"
+hash = "161167895fd55143f270dd9a67424363057a50483ce3c676fad5c5015f91796a"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "e9691acca458b01cad43aedb8e0933ce6872fed44dfab514786931be7fe0d814"
+hash = "a0cdb15f29d053699bbad9181a33fc86e371a9f57ca86d5c89ee0621c4a70c11"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "b341fd8fba1905b7cab64f9c5b85d205bcb5e16b3d1b6097a0b5ae7ed7895646"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
 metafile = true
 
 [[files]]
@@ -512,12 +512,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "2f18c42ee016430436278ff89e09cdfd6a8ca9928b90be9dca0954704c888952"
+hash = "839f962344040ce06f92007035fb4a3d1900c4f03bd8047c0c008b44afc900f8"
 metafile = true
 
 [[files]]
 file = "mods/sao2102.pw.toml"
-hash = "ffe2a263bbe40b4efdc274acffde773dbe91e2074adf813d3dfc31f34154b97f"
+hash = "2dd124fc6407207cdda4289c77cba4e82e5829713a454fd6cf4979de336f94e0"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/shield-expansion.pw.toml"
-hash = "7f4696281eed04142674bb52a585770e94f3ef31d7cf7ebc44c0228b88a8b24f"
+hash = "aa4ac6deaf5953a0718f91f9803d45b60c99e887dd699cd30e11de4a3f4c6733"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/stalwart-dungeons.pw.toml"
-hash = "3128e1d548e20e625e049f005bda8f86f3931f394a4ce308631c376e56185a92"
+hash = "c7ad211a11538e1263aa09d8a7c508f596b16966a3876c842beaee4e7d8135d5"
 metafile = true
 
 [[files]]

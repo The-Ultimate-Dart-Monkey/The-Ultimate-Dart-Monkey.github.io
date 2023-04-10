@@ -1,13 +1,13 @@
 name = "Sao world"
-filename = "Sao Mod_1.18.2_(21.02.2023).jar"
+filename = "Sao Mod_1.18.2_(02.04.2023).jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "567e0cfa0ccecdd17c4f083d31bb914f5da1500a"
+hash = "9dbaa0c29149532fa4a07270bd59163f1092b274"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4408594
+file-id = 4470385
 project-id = 829671
