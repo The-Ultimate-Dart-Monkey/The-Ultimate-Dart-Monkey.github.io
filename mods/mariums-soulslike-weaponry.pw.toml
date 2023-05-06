@@ -1,0 +1,13 @@
+name = "Marium's Soulslike Weaponry"
+filename = "soulslike-weaponry-0.9.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "547ff5622566b8727c8d8100bab6906f430fd50c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4488964
+project-id = 632066
