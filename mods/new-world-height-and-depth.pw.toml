@@ -1,0 +1,13 @@
+name = "Shattered World Limits"
+filename = "shatteredworldlimits-fabric-1.19.3-1.0.0-0.14.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3467a3e14751108b53de8b7467b5d338e6ca2a69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4430373
+project-id = 556760

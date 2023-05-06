@@ -161,6 +161,11 @@ hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
+file = "mods/new-world-height-and-depth.pw.toml"
+hash = "16502b5f9f94ee698851fc4073ea35e60811086028c709399aedd18b9411d02b"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
 metafile = true
