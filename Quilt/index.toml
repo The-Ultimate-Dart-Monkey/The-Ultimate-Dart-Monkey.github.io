@@ -232,12 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "b69bb36e39cd8ed8171a373a0cef0a131e05fcd56adac72dd95f40e243160efb"
+hash = "0dce7ce32df160cc032fee249f8b85f8d1ed21f8ab0903531c3c8ba5fd19eccc"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
+hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
+hash = "2be50974c72386427a30f5a3d42d57f459a403a92f09fad74609e476f0f4b8a6"
 metafile = true
 
 [[files]]
