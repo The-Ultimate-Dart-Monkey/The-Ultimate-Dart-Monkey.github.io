@@ -126,6 +126,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "337f8851d911a0c44d0df1268582a4a94cd69c5b4bc3ccea430f5af36b082bd0"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
@@ -232,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "0dce7ce32df160cc032fee249f8b85f8d1ed21f8ab0903531c3c8ba5fd19eccc"
+hash = "b69bb36e39cd8ed8171a373a0cef0a131e05fcd56adac72dd95f40e243160efb"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
+hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
 metafile = true
 
 [[files]]
@@ -252,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "913cb706a6ad18823c1cae328091876b5b49743e23cea9f73d8b00cfdefd3fe0"
+hash = "7d8109543303c680aa1d4d5d4e81548ec602f910ca2e9a32133a07c0dc3c2df7"
 metafile = true
 
 [[files]]
