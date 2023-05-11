@@ -1,0 +1,13 @@
+name = "MCA Reborn [Fabric/Forge]"
+filename = "minecraft-comes-alive-7.5.0-rc.3+1.19.2-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1W98a849/versions/OHkwRabU/minecraft-comes-alive-7.5.0-rc.3%2B1.19.2-universal.jar"
+hash-format = "sha1"
+hash = "66d8755de26fc7bfa39ee4460d8eba2c90cdf506"
+
+[update]
+[update.modrinth]
+mod-id = "1W98a849"
+version = "OHkwRabU"

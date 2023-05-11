@@ -1,0 +1,13 @@
+name = "Shattered World Limits"
+filename = "shatteredworldlimits-512-0.1.2-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c106eb23c1b7f6dab4e9bb13113b9bd76a62c96a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4345119
+project-id = 556760
