@@ -56,6 +56,11 @@ hash = "a7ca17787c935269fb3e7617790126fb94c51b6a0d8bbbccfee51fcea63eb432"
 metafile = true
 
 [[files]]
+file = "mods/bigger-better-end-cities.pw.toml"
+hash = "62c1bfc1a5a62814e2da12df52e1c89b83ae0be226eab17739a9a3550f5195d8"
+metafile = true
+
+[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "c5fe06b7d389fa87dadca4f4974660eff26b336a908ee506fd616f717e1be581"
 metafile = true
