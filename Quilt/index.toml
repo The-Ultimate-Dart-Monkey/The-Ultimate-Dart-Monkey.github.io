@@ -424,3 +424,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
+hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
