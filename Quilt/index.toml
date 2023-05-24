@@ -431,5 +431,89 @@ hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
 
 [[files]]
-file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
-hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/base_floor.nbt"
+hash = "4ce37eb2893c8c20dc87a858fffc757e018c81eb660c8a0056f5b9fcbf752ee4"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/base_roof.nbt"
+hash = "4109ad5a0c0d2f2d8740e331ce39e12c5101cd2dfe718508db26d215776a2c72"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/bridge_end.nbt"
+hash = "ccee0ae65be5b08c29b72a4c0f2783932f13b89d8a274f7d3defb8e1ca404c77"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/bridge_gentle_stairs.nbt"
+hash = "94928f2b77ee44269ec28d78de6ca4ec270c11519e5571e963096f46bc2eeeac"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/bridge_piece.nbt"
+hash = "c3f5962822bb7ef7c4284d07082fc92167d53e19882a16179b531c5370f745f8"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/bridge_steep_stairs.nbt"
+hash = "170e6b97c593d9a86f3924b4bb3f551e726962b4d7dc635df6b17ab936acb580"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/fat_tower_base.nbt"
+hash = "7f096ab8a8281fdecc703c723f1e1225fc349a4c3685ad72f59cb4af9ca55582"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/fat_tower_middle.nbt"
+hash = "3a13635e135143fce4f7013af038464b7e09349b0639febc5a097c55cec4b8b4"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/fat_tower_top.nbt"
+hash = "e3767d295342ee7fd480ea75f7da7488ce702a634c86ff9d0b45a33ca548dd58"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/second_floor_1.nbt"
+hash = "afb6983a0fde2e856fa4cfa036c2587253c93a4e150feec8056f05272b537f83"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/second_floor_2.nbt"
+hash = "db1013a317cc30bbccdc40a32b007f3f6c5642816da40877556b41d501eca83b"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/second_roof.nbt"
+hash = "1fd05e8f2c35a715e021db5fa54364208e8962d2be667036775075e82efcabe6"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/ship.nbt"
+hash = "67318c45754079a531d0a3c128bac9cce3d39c1bb5e382e8f7e34ec7868f3188"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/third_floor_1.nbt"
+hash = "88208ebdeeabd4c74a263e89b8d07d6792edbfbb18c49f2c2fb1a19daee82021"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/third_floor_2.nbt"
+hash = "d1a130360a156e26ee4de26512c8ca0545e937e870742a5c2199db23531a6a8b"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/third_roof.nbt"
+hash = "e28a4cce255abd620967d34d9c2cc3a5dd1956a87c7514c84320a1f32ca73879"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/tower_base.nbt"
+hash = "dae39093fc5e01c3cfe395191001006f713491e35086fb656db1106857097997"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/tower_floor.nbt"
+hash = "60d31373b84f09e197f5da995237c4bbf329964d315b1502ce27074a28a87ee3"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/tower_piece.nbt"
+hash = "7466023bbbb84d3b98b18ec65ae4348dcf838439f59ba61e9eed0ce831a3b1d1"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/data/minecraft/structures/end_city/tower_top.nbt"
+hash = "6c3df950157cd511cb2fa006aa261538fb0291f38ac733bcf5bea30511477ad7"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/pack.mcmeta"
+hash = "8fa9422478a175473566afebc1f8b04bf5516d58ffc971d44e7e5b4fb8be1b4e"
+
+[[files]]
+file = "resources/packs/datapacks/ichphilipp-s-endcity-better-end-1-18-1/pack.png"
+hash = "8ba58dd1100359845adba82af9bf320e45b88e78e5b99b29e2d511ffc13111f2"
