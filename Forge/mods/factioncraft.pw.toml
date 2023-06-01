@@ -1,0 +1,13 @@
+name = "FactionCraft"
+filename = "faction_craft-1.19.2-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56dd2ba2142f4535878412b66f9bdaf3c9934c8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4484878
+project-id = 564470

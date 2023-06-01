@@ -1,0 +1,13 @@
+name = "Majrusz's Accessories"
+filename = "majruszs-accessories-1.19.2-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6roN0iTa/versions/bsjoYWbZ/majruszs-accessories-1.19.2-1.1.5.jar"
+hash-format = "sha1"
+hash = "0167f1d47aa6d489ecfeb4746ae07a35cf47bb6d"
+
+[update]
+[update.modrinth]
+mod-id = "6roN0iTa"
+version = "bsjoYWbZ"

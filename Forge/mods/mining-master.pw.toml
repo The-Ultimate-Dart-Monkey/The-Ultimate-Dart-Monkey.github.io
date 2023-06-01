@@ -1,0 +1,13 @@
+name = "Mining Master"
+filename = "miningmaster-1.19.2-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xu8V0UlK/versions/n7a6j2wK/miningmaster-1.19.2-4.0.0.jar"
+hash-format = "sha1"
+hash = "efb1952511a54b2c14487ead342ec2ebea8c49e3"
+
+[update]
+[update.modrinth]
+mod-id = "Xu8V0UlK"
+version = "n7a6j2wK"
