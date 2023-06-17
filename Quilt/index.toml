@@ -126,6 +126,31 @@ hash = "25e082c4f835eb1615ac5ad94099167a1639312c415343afe0a7383a2f834b85"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "56eca00b636da27a2bd4a06906f97058890c25725824f4e7854501fd7947ebe5"
+metafile = true
+
+[[files]]
+file = "mods/ctov-chefs-delight-compat.pw.toml"
+hash = "4a0ea554bf4c033d51640edd9e9ce7d30cf46e20443d1706dbaf7eeebad0aead"
+metafile = true
+
+[[files]]
+file = "mods/ctov-croptopia-compat.pw.toml"
+hash = "8b96b592f5385b5a27ecfc6a349655dfa2037bc7736c0bdc5e6a1cd9333ca893"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "f168637b2633a19a5d69ac629540dee9db8fc782548148fccb2fc36fa5100ee0"
+metafile = true
+
+[[files]]
+file = "mods/ctov-wizards-compat.pw.toml"
+hash = "3a0f176aea45106028a87258f89effc710c016fbb03c71a0de3c18355ecf2a04"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
@@ -162,7 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1b9676a138a0ba5ba7e48087f3b60278b6d50096ccd479d0b714663a7bb4b7c8"
+hash = "34cfd4a1ee8dda9c94dc45f6c70686cee5c8287099a261e913d4223750ffe53c"
+metafile = true
+
+[[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
 metafile = true
 
 [[files]]
@@ -191,8 +221,18 @@ hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "1d99e516e06ee6620a48a2b4bc45de8918deb27affc404786005a9a0a5ed6406"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "2a6e243aabbad7c6bb23561a4f4572403a06e41b7cbcc94282eeae899d0e54a6"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
@@ -208,6 +248,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "3227076500fcb4b964d1fc1e1718151b5890b167977168aba98d49ddf895b897"
 metafile = true
 
 [[files]]
@@ -333,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "2771d290d01dde0d1b1e894c9dc88e03adca6a8b1f5d848f0d170877a23d1a41"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "216a4488198a01ba61cd309403811d681c133b8993b10018cb18cd5534a2d480"
 metafile = true
 
 [[files]]
@@ -492,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "613e40a0c2f3f93336130559d446d383e9eaddce5aa2e0448221ab8f96faf7a1"
+hash = "4876d2e577ada82b884bde50124bfc5608fcff6b050bfa6713ee359391de1667"
 metafile = true
 
 [[files]]
