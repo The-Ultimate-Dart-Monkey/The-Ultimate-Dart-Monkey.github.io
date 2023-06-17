@@ -1,13 +1,13 @@
 name = "Majrusz's Progressive Difficulty"
-filename = "majruszs-difficulty-1.19.2-1.7.4.jar"
+filename = "majruszs-difficulty-1.19.2-1.7.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GGDBwjOg/versions/MDZFpROa/majruszs-difficulty-1.19.2-1.7.4.jar"
+url = "https://cdn.modrinth.com/data/GGDBwjOg/versions/PTKfwXqb/majruszs-difficulty-1.19.2-1.7.7.jar"
 hash-format = "sha1"
-hash = "cec4080afc2b7c13c1dec7f041307fe1b65d676c"
+hash = "90ebe454967edadf0bce9ef671ca6d3c0cd11c5b"
 
 [update]
 [update.modrinth]
 mod-id = "GGDBwjOg"
-version = "MDZFpROa"
+version = "PTKfwXqb"

@@ -1,13 +1,13 @@
 name = "Bigger Better End Cities"
-filename = "bigger_end_cities-1.19.2-1.0.0.jar"
+filename = "bigger_end_cities-1.19.3-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/A1ySbDYD/versions/bIVrwTsq/bigger_end_cities-1.19.2-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/A1ySbDYD/versions/ryxTliBr/bigger_end_cities-1.19.3-1.0.0.jar"
 hash-format = "sha1"
-hash = "f217f6ef14de760d660fcec5b1e4c71e0723d964"
+hash = "db736ecc3f003c5908da7e9aa0e781292eb7aa2b"
 
 [update]
 [update.modrinth]
 mod-id = "A1ySbDYD"
-version = "bIVrwTsq"
+version = "ryxTliBr"
