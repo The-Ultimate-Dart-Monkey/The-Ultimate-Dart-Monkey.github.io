@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
@@ -61,8 +61,18 @@ hash = "02c6ee9316793c834b8ef515327ab73c8f6d83aa8f817aa1509c7bb786b84557"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "b50658788183a897efd35aff0ae7ce5e69962cf290dd11bb6f586f8690cdbc04"
 metafile = true
 
 [[files]]
@@ -141,6 +151,16 @@ hash = "d50c3d071011a3b7fa8689c8acf61de5a3dee35bd25ad54cefd996abf34bf4cb"
 metafile = true
 
 [[files]]
+file = "mods/hals-enhanced-biomes.pw.toml"
+hash = "186421a447842734b3c8482361c5b161913ac208c65792f10d2a52af99eb0947"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
+metafile = true
+
+[[files]]
 file = "mods/illagers-wear-armor.pw.toml"
 hash = "b1aa6ec323251fde5a4cb8af91685a45afed72c1a3385272fc3b4480271982dd"
 metafile = true
@@ -153,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/infernal-expansion.pw.toml"
 hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "08b87444b18f6dcfe664c0acc308c30066c7ca3b2ae8324e1c86eab690c5860a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
 
 [[files]]
@@ -196,6 +226,11 @@ hash = "0d3885119af0e97032f87492c831caec9957c63aec588b20581e3a17fbc9a2d8"
 metafile = true
 
 [[files]]
+file = "mods/new-world-height-and-depth.pw.toml"
+hash = "68651c78438440eebc7a291971b170e4dcc3feb1250f46add733132dd78ebc27"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "efc13c7bc347def6d1175ffb85610195c261c3267603c43b477901756d1d8dff"
 metafile = true
@@ -216,8 +251,18 @@ hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "a018d7dd6bfa797e018e2b6a13fc6cbbea92fb0fdd76f3f58d0daafa13d7e2e7"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "6cb525658ec767d601dfa75abb25e2348a44767cfef97e087cbd95f33217faff"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "a5b1cff7c66d98ad0d0c53903bdc5b802b4036268e56d9342a708274435343f8"
 metafile = true
 
 [[files]]
