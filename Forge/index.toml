@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-runtime-resource-pack.pw.toml"
-hash = "c5e18eab901d6077cb2f06826501a3fec739f271df894706af91d74718f5562c"
+hash = "16e2572c0b763ab7fca87c3973cc23fa148169003962aebc110168fda5054d5f"
 metafile = true
 
 [[files]]
