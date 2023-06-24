@@ -1,0 +1,13 @@
+name = "Enhanced Block Entities Reforged (Unofficial)"
+filename = "EnhancedBlockEntities-Reforged-1.19.2-0.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea61b13b89c6372ecfd1b007ff709e5700cc7fea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4513587
+project-id = 853851

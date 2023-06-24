@@ -1,0 +1,13 @@
+name = "Better Runtime Resource Pack (BRRP)"
+filename = "brrp-forge-1.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3d6b6d533022addc7d4f50fb3887c3dbec655e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4600759
+project-id = 618156
