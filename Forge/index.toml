@@ -21,6 +21,11 @@ hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
 metafile = true
@@ -176,6 +181,11 @@ hash = "b5eebcb16bafdfc4c962559ab7c5bd77a817e8622a5d1ac635633f0780c96c5d"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f982446e0d81644ee7ae042c7014ce7383d625850b7f17e288768684c9bdcf70"
+metafile = true
+
+[[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "08b87444b18f6dcfe664c0acc308c30066c7ca3b2ae8324e1c86eab690c5860a"
 metafile = true
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "58356491ca3d573b1e786df93f0ed3072143747d7e660510d8dcd2fba94e15d3"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ecaa55c3362f3faea6d7575e603e35a7b80761708ab727d6c898733dba966b95"
 metafile = true
 
 [[files]]
